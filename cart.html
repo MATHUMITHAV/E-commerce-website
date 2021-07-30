@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>E-commerce - About Page</title>
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400" rel="stylesheet" />
+    <link href="css/all.min.css" rel="stylesheet" />
+	<link href="css/templatemo-style.css" rel="stylesheet" />
+</head>
+
+<body> 
+
+	<div class="container">
+	<!-- Top box -->
+		<!-- Logo & Site Name -->
+		<div class="placeholder">
+			<div class="parallax-window" data-parallax="scroll" data-image-src="img/bg.jpg">
+				<div class="tm-header">
+					<div class="row tm-header-inner">
+						<div class="col-md-6 col-12">
+							<img src="img/logo.png" alt="Logo" class="tm-site-logo" /> 
+							<div class="tm-site-text-box">
+								<h1 class="tm-site-title">E-Commerce</h1>
+								<h6 class="tm-site-description">life is better with handbag</h6>	
+							</div>
+						</div>
+						<nav class="col-md-6 col-12 tm-nav">
+							<ul class="tm-nav-ul">
+								<li class="tm-nav-li"><a href="index.html" class="tm-nav-link">Home</a></li>
+								<li class="tm-nav-li"><a href="about.html" class="tm-nav-link">About</a></li>
+								<li class="tm-nav-li"><a href="contact.html" class="tm-nav-link">Contact</a></li>
+                                <li class="tm-nav-li"><a href="bag.php" class="tm-nav-link active"><i class="fa fa-shopping-cart" aria-hidden="true"></i></a></li>
+
+							</ul>
+						</nav>	
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<main>
+
+					
+					<div class="form-control">
+						<form action="http://localhost/e-commerce/connect.php" method="post">
+								<div class="span6">
+									<h4>Your Personal Details</h4>
+									<div class="form-control">
+										<label class="control-label">Name</label>
+											<input type="text" placeholder="" name="name" class="input-xlarge">
+									</div>
+										  
+									<div class="form-control">
+										<label class="control-label">Email Address</label>
+											<input type="text" placeholder="" name="email" class="input-xlarge" required>
+									</div>
+									<div class="form-control">
+										<label class="control-label">Telephone</label>
+											<input type="text" placeholder="" name="phone" class="input-xlarge" required>
+									</div>
+									
+								</div>
+								<div class="span6">
+									<h4>Your Address</h4>
+									
+									<div class="form-control">
+										<label class="control-label">House No:</label>
+											<input type="text" placeholder="" name="houseno" class="input-xlarge">
+									</div>					  
+									<div class="form-control">
+										<label class="control-label"> Address 1:</label>
+											<input type="text" placeholder="" name="address1" class="input-xlarge" required>
+									</div>
+									<div class="form-control">
+										<label class="control-label">Address 2:</label>
+											<input type="text" placeholder="" name="address2" class="input-xlarge">
+									</div>
+									<div class="form-control">
+										<label class="control-label">City:</label>
+											<input type="text" placeholder="" name="city" class="input-xlarge" required>
+									</div>
+									<div class="form-control">
+										<label class="control-label"> Post Code:</label>
+											<input type="text" placeholder="" name="postcode" class="input-xlarge" required>
+									</div>
+									<div class="form-control">
+										<label class="control-label">Country:</label>
+										<div class="controls">
+											<select class="input-xlarge" name="country" required>
+												<option value="1">Afghanistan</option>
+												<option value="2">Albania</option>
+												<option value="3">Algeria</option>
+												<option value="4">American Samoa</option>
+												<option value="5">Andorra</option>
+												<option value="6">Angola</option>
+											</select>
+										</div>
+									</div>
+									<div class="form-control">
+										<label class="control-label"> Region / State:</label>
+										<div class="controls">
+											<select name="state" class="input-xlarge" required>
+												<option value=""> --- Please Select --- </option>
+												<option value="3513">Aberdeen</option>
+												<option value="3514">Aberdeenshire</option>
+												<option value="3515">Anglesey</option>
+												<option value="3516">Angus</option>
+												<option value="3517">Argyll and Bute</option>
+											</select>
+										</div>
+									</div>
+								</div>
+								<div>
+									<input type="submit" name="submit" value="PLACE ORDER" />
+								</div>
+						</form>
+					</div>
+						
+
+								
+				
+
+			
+		</main>
+
+		<footer class="tm-footer text-center">
+			<p>Copyright &copy; 2021 E-commerce</p>
+		</footer>
+	</div>
+	<script src="js/jquery.min.js"></script>
+	<script src="js/parallax.min.js"></script>
+</body>
+</html>
