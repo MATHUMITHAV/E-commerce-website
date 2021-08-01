@@ -9,7 +9,7 @@ Web Development intern - The intern academy
 
 <b>Youtube Link:<b><a href="https://youtu.be/LySNy_vqYyA">here<a><br><br><br>
 <b>Linkedin Post:<b><a href="https://github.com/MATHUMITHAV/E-commerce-website">here<a><br><br><br>
-<img src="screenshot.png"> <br><br>
+<img src="2021-07-29.png"> <br><br>
     
 <h3>FOLLOW:</h3>
 <li><a href="https://www.linkedin.com/in/mathu-mitha-0541421b1">LinkedIn</a>
