@@ -1,7 +1,7 @@
 # E-commerce-website
 Web Development intern - The intern academy
 <p> Hi I made this website to implement e-commerce site @<b>The Intern Academy</b> Task as Web Developer Intern.</p>
-<h2 color="red">E-COMMERCE WEBSITE</h2>
+<h2 color="green">COMMERCE WEBSITE</h2>
 <p>Create a simple website where payment gateway is integrated. There will be a simple donate button on homepage. On clicking</p>
 
  <br>
