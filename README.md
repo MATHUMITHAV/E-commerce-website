@@ -1,16 +1,16 @@
 # E-commerce-website
 Web Development intern - The intern academy
 <p> Hi I made this website to implement e-commerce site @<b>The Intern Academy</b> Task as Web Developer Intern.</p>
-<h2 color="green">COMMERCE WEBSITE</h2>
-<p>Create a simple website where payment gateway is integrated. There will be a simple donate button on homepage. On clicking</p>
+<h2 color="green">E-COMMERCE WEBSITE</h2>
+<p>Create an e commerce website with carts. The site will show various items and whoever wants to buy will simple find its rate and book it with address details and save it to database</p>
 
  <br>
  <br>
-
+<h1>Demo:</h1>
 <b>Youtube Link:<b><a href="https://youtu.be/LySNy_vqYyA">here<a><br><br><br>
 <b>Linkedin Post:<b><a href="https://github.com/MATHUMITHAV/E-commerce-website">here<a><br><br><br>
-<img src="2021-07-29.png">
- <img src="2021-07-30.png"> <br><br>
+ <a href="https://youtu.be/LySNy_vqYyA"><img src="2021-07-29.png"></a>
+ <a href="https://youtu.be/LySNy_vqYyA"><img src="2021-07-30.png"></a> <br><br>
     
 <h3>FOLLOW:</h3>
 <li><a href="https://www.linkedin.com/in/mathu-mitha-0541421b1">LinkedIn</a>
